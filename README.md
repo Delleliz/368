@@ -16,3 +16,5 @@ My objective for my website is:
 #Attribution
 
 * [CodePen](http://codepen.io)
+* [Horse Image](http://awelltraveledwoman.tumblr.com/post/46696046452)
+* 
